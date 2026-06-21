@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A. Reddy Vishnu Vardhan</h1>
+<h1 align="center">Hi 👋, I'm AREDDY VISHNU VARDHAN REDDY</h1>
 
 <h3 align="center">
 Final Year B.Tech CSE Student | AI & Autonomous Systems | MERN Stack Developer | DSA Enthusiast
